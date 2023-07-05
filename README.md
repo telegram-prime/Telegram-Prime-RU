@@ -71,7 +71,7 @@
 - Email: manager[@]telegramprime.com
 - Telegram: @TG_Prime_Sales
 - [Twitter](https://twitter.com/TelegramGods)
-- [YouTube видео по работе с программой](https://www.youtube.com/channel/UCM-XtjvwGyR7p2TudOE5sVg/videos)
+- [YouTube видео по работе с программой](https://www.youtube.com/@telegram-prime/videos)
 
 
 ## Мотивация проекта:
