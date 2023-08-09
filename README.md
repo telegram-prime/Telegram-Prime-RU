@@ -69,7 +69,7 @@
 - Web: https://telegramprime.net/ - EN Version
 
 - Email: manager[@]telegramprime.com
-- Telegram: @TG_Prime_Saller
+- Telegram: [Отправить сообщение](http://telegramprime.com/telegram-contact)
 - [Twitter](https://twitter.com/TelegramGods)
 - [YouTube видео по работе с программой](https://www.youtube.com/@telegram-prime/videos)
 
