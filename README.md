@@ -70,6 +70,7 @@
 
 - Email: manager[@]telegramprime.com
 - Telegram: [Отправить сообщение](http://telegramprime.com/telegram-contact)
+- ICQ: https://icq.im/TelegramPrime
 - [Twitter](https://twitter.com/TelegramGods)
 - [YouTube видео по работе с программой](https://www.youtube.com/@telegram-prime/videos)
 
