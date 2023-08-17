@@ -68,9 +68,10 @@
 - Web: https://telegramprime.com/ - RU Version
 - Web: https://telegramprime.net/ - EN Version
 
-- Email: manager[@]telegramprime.com
-- Telegram: [Отправить сообщение](http://telegramprime.com/telegram-contact)
-- ICQ: https://icq.im/TelegramPrime
+- Email:    manager[@]telegramprime.net
+- Telegram: [Send message](https://telegramprime.com/telegram-contact)
+- ICQ:      [Send message](https://telegramprime.com/icq-contact)
+- TamTam:   [Send message](https://telegramprime.com/tamtam-contact)
 - [Twitter](https://twitter.com/TelegramGods)
 - [YouTube видео по работе с программой](https://www.youtube.com/@telegram-prime/videos)
 
