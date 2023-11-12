@@ -35,6 +35,10 @@
 - [Интерактивный обзор интерфейса программы](https://telegram-prime.shop/prime/index.php)
 
 
+## Установка
+- [Веб-установщик](https://github.com/telegram-prime/Telegram-Prime-RU/releases/latest)
+- [Инструкция по установке](https://telegramprime.com/pervaya-ustanovka-telegram-prime-i-sistemnye-trebovaniya)
+
 ## Скриншоты:
 
 <img src="https://github.com/telegram-prime/Telegram-Prime-RU/assets/94137664/068cbead-1e71-4b7e-9b9c-c2ac03c951dc" width="200" height="200">
