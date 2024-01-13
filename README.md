@@ -28,7 +28,7 @@
 
 
 ## Видео
-- [YouTube - примеры работы](https://www.youtube.com/@telegram-prime/videos)
+- [YouTube - примеры работы](https://www.youtube.com/@tg-prime/videos)
 
 
 ## Интерфейс
