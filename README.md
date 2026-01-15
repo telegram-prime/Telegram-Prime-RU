@@ -6,8 +6,8 @@
 Революционное ПО, продолжающее развитие предыдущих версий, с акцентом на быстрые обновления и исправления ошибок. Зарабатывайте, продвигая свои проекты и собирая лиды в Telegram.
 
 
-* Description also available in English. See [Telegram Prime EN](https://github.com/telegram-gods/telegram-prime)
-* 描述也可以在Chineese中提供。 参见[Telegram Prime CN](https://github.com/telegram-gods/telegram-prime-CN)
+* Description also available in English. See [Telegram Prime EN](https://github.com/Telegram-Prime/telegram-prime)
+* 描述也可以在Chineese中提供。 参见[Telegram Prime CN](https://github.com/Telegram-Prime/telegram-prime-CN)
 
 
 
