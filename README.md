@@ -111,7 +111,7 @@ https://telegramprime.com/
 
 - 🌍 Сайт RU: https://telegramprime.com/  
 - 🌍 Сайт EN: https://telegramprime.net/  
-- 📧 Email: manager@telegramprime.net  
+- 📧 Email: manager[@]telegramprime.net  
 - Telegram: [Написать в поддержку](https://telegramprime.net/telegram-contact)  
 - Discord: [Присоединиться и написать](https://telegramprime.net/discord-contact)  
 - Element/Matrix: [Защищённый чат](https://telegramprime.net/element-contact)  
